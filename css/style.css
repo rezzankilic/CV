@@ -1,0 +1,187 @@
+body{
+  text-align: center;
+  font-family:'Merriweather', serif;
+  font-style: italic;
+  margin: 0;
+}
+
+h1{
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: 'Shadows Into Light', cursive;
+  line-height: 2;
+  font-size: 50px;
+
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 20px;
+  color: #02475E;
+  font-weight: normal;
+  font-size: 30px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#506D84;
+  font-size: 25px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #506D84;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+  margin-top: 125px;
+  margin-bottom: 125px;
+}
+
+#physicsteacher{
+  font-size: 2.5rem;
+  font-family: 'Shadows Into Light', serif;
+  color: #889EAF;
+
+}
+
+.top-container{
+  background-color: #FEF1E6;
+  position:relative;
+  margin: 0;
+}
+
+.middle-container{
+  background-color: #889EAF;
+  margin: 0;
+}
+
+.bottom-container{
+  background-color: #FEF1E6;
+  margin: 0;
+}
+
+.mountain{
+  width: 40%
+}
+
+
+.top-cloud{
+  position: absolute;
+  left: 900px;
+  top: 60px;
+  width: 8%;
+}
+
+
+.bottom-cloud{
+  position : absolute;
+  left: 400px;
+  top: 150px;
+  width: 8%;
+}
+
+
+.rzzn-image{
+  margin-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin-left: 350px;
+  line-height: 1;
+
+}
+.social-science{
+  width: 10%;
+  float: left;
+  margin-top: 30px;
+}
+.technology{
+  width: 10%;
+  float: left;
+  margin-top: 30px;
+}
+.engineering{
+  width: 10%;
+  float: left;
+  margin-top: 30px;
+
+}
+.art{
+  width: 10%;
+  float: left;
+  margin-top: 30px;
+}
+
+.math{
+  width: 10%;
+  float: left;
+  margin-top: 30px;
+
+}
+
+
+#Science{
+  text-align: left;
+  padding-left: 320px;
+}
+
+#Technology{
+  text-align: left;
+  padding-left: 300px;
+}
+
+#Engineering{
+  text-align: left;
+  padding-left: 300px;
+
+}
+
+#Art{
+  text-align: left;
+  padding-left: 350px;
+
+}
+
+#Math{
+  text-align: left;
+  padding-left: 340px;
+
+}
+
+.footer-link{
+  color: #F5C6A5;
+}
+.underline{
+  text-decoration: underline;
+}
+
+
+.btn {
+  background: #889EAF;
+  background-image: -webkit-linear-gradient(top, #889EAF, #F5C6A5);
+  background-image: -moz-linear-gradient(top, #889EAF, #F5C6A5);
+  background-image: -ms-linear-gradient(top, #889EAF, #F5C6A5);
+  background-image: -o-linear-gradient(top, #889EAF, #F5C6A5);
+  background-image: linear-gradient(to bottom, #889EAF, #F5C6A5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #02385e;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #F5C6A5;
+  background-image: -webkit-linear-gradient(top, #F5C6A5, #889EAF);
+  background-image: -moz-linear-gradient(top, #F5C6A5, #889EAF);
+  background-image: -ms-linear-gradient(top, #F5C6A5, #889EAF);
+  background-image: -o-linear-gradient(top, #F5C6A5, #889EAF);
+  background-image: linear-gradient(to bottom, #F5C6A5, #889EAF);
+  text-decoration: none;
+}
